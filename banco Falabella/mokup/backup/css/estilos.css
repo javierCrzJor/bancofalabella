@@ -1,0 +1,155 @@
+*{
+    margin:0;
+    padding: 0;
+}
+/*cuerpo*/
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+    color: #020000;
+    width: 100%;
+}
+
+/*encabezado*/
+header{
+    overflow: hidden;
+    width: 1400px;
+    margin: 10px auto 5px auto;
+}
+
+header #nav{
+    width: 100%;
+    height: 150px;
+}
+
+header #nav{
+    overflow: hidden;
+    float: left;
+    width: 100%;
+    height: 30px;
+    background-color: black;
+    color: #fff;
+    border-radius: 5px;
+}
+
+header #nav ul li{
+    list-style: none;
+    float: left;
+    margin-left: 15px;
+}
+
+header #nav figure ul li{
+    list-style: none;
+    float: right;
+    margin-left: 15px;
+}
+
+/*imagen logo*/
+
+img{
+    width: 40;
+    height: 100;
+    border-radius: 20px;
+    margin-left: 20%;
+    position: center;
+}
+
+/*input boton*/
+
+button{
+    margin-left: 70%;
+    height:50px;
+    width:120px;
+    background-color: green;
+    border-color: green;
+    color: #fff;
+    border-radius: 10%;
+    position:relative;
+    top: -70px;
+    display: block;
+    cursor: pointer;
+}
+
+/*MENU*/
+
+section{
+    margin-left: 10%;
+}
+
+section #men ul li{
+    list-style: none;
+    float: left;
+    margin-left: 15px;
+}
+
+section #men ul li a{
+    color: #020000;
+    text-decoration: none;
+}
+
+/*Rut*/
+
+footer{
+    overflow: hidden;
+    width: 1100px;
+}
+
+footer #bus{
+    overflow: hidden;
+    float: left;
+    width: 100%;
+    height: 80px;
+    background-color: rgb(173, 171, 171);
+    color: rgb(65, 60, 60);
+    border-radius: 5px;
+    margin-left: 20%;
+    text-align: justify;
+}
+
+footer #bus p{
+    position: relative;
+    top: 25px;
+    margin-left: 10%;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+footer #caj{
+    position:relative;
+    top: -60px;
+    margin-left: 70%;
+}
+
+footer #bot{
+    margin-left: 55%;
+    position: relative;
+    top: -20px;
+}
+
+/*pagina abajo*/
+
+#fin{
+    height: 300px;
+    background-color: black;
+    color: #fff;
+    
+}
+
+#fin h4{
+    margin-left: 10%;
+}
+
+#fin h6{
+    margin-left: 10%;
+}
+
+#fin2 h4{
+    margin-left: 25%;
+    position: relative;
+    top: -152px;
+}
+
+#fin2 h6{
+    margin-left: 25%;
+    position: relative;
+    top: -150px;
+}

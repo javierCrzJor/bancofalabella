@@ -1,0 +1,229 @@
+*{
+    margin:0;
+    padding: 0;
+}
+/*cuerpo*/
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+    color: #020000;
+    width: 100%;
+}
+
+/*encabezado*/
+header{
+    overflow: hidden;
+    height: 40px;
+    background-color: black;
+    width: 1902px;
+    color: #fff;
+    border-radius: 5px;
+}
+
+header #nav ul li{
+    list-style: none;
+    float: left;
+    margin-left: 2%;
+    position: relative;
+    top: 10px;
+}
+
+header #nav figure ul li{
+    list-style: none;
+    float: right;
+    position: relative;
+    top: 10px;
+    margin-right: 80px;
+}
+
+/*imagen logo*/
+
+#logo_image{
+    width: 40;
+    height: 100;
+    border-radius: 20px;
+    margin-left: 100px;
+    position: center;
+}
+
+/*input boton*/
+
+button{
+    margin-left: 70%;
+    height:50px;
+    width:120px;
+    background-color: green;
+    border-color: green;
+    color: #fff;
+    border-radius: 10%;
+    position:relative;
+    top: -70px;
+    display: block;
+    cursor: pointer;
+}
+
+/*MENU*/
+
+section{
+    margin-left: 10%;
+}
+
+section #men ul li{
+    list-style: none;
+    float: left;
+    margin-left: 15px;
+}
+
+section #men ul li a{
+    color: #020000;
+    text-decoration: none;
+}
+
+#im_banner{
+    width: 1902px;
+    height: 500px;
+    margin-left: 0%;
+    border-radius: 0%;
+}
+
+/*Rut*/
+
+footer{
+    overflow: hidden;
+    width: 1200px;
+    height: 80px;
+    background-color: rgb(197, 193, 193);
+    color: rgb(65, 60, 60);
+    margin-left: 10%;
+}
+
+footer #bus{
+    float: left;
+    margin-left: 5%;
+    position: relative;
+    top: 25px;
+    margin-left: 10%;
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: large;
+}
+
+footer #caj{
+    position:relative;
+    top: 35px;
+    margin-left: 60%;
+}
+
+footer #bot{
+    margin-left: 55%;
+    position: relative;
+    top: 65px;
+}
+
+/*pagina abajo*/
+
+#fin{
+    height: 300px;
+    background-color: black;
+    color: #fff;
+    
+}
+
+#fin h4{
+    margin-left: 10%;
+}
+
+#fin h6{
+    margin-left: 10%;
+}
+
+#fin2 h4{
+    margin-left: 25%;
+    position: relative;
+    top: -140px;
+}
+
+#fin2 h6{
+    margin-left: 25%;
+    position: relative;
+    top: -130px;
+}
+
+/*contenido e imagenes*/
+#img_ejem1{
+    width: 40;
+    height: 100;;
+    margin-left: 5%;
+}
+
+#cont1{
+    margin-left: 10%;
+    position: relative;
+    top: -1230px;
+}
+
+#img_ejem2{
+    width: 40;
+    height: 100;
+    margin-left: 20%;
+    position: relative;
+    top: -60px;
+}
+
+#cont2{
+    margin-left: 35%;
+    position: relative;
+    top: -1260px;
+}
+
+
+#img_ejem3{
+    width: 40;
+    height: 100;
+    margin-left: 40%;
+    position: relative;
+    top: -190px;
+}
+
+#cont3{
+    margin-left: 60%;
+    position: relative;
+    top: -1310px;
+}
+
+
+#img_ejem4{
+    width: 40;
+    height: 100;
+    margin-left: 10%;
+    position: relative;
+    top: -60px;
+}
+
+#img_ejem5{
+    width: 40;
+    height: 100;
+    margin-left: 30%;
+    position: relative;
+    top: -60px;
+}
+#img_ejem6{
+    width: 40;
+    height: 100;
+    margin-left: 5%;
+    position: relative;
+    top: -60px;
+}
+#img_ejem7{
+    width: 40;
+    height: 100;
+    margin-left: 20%;
+    position: relative;
+    top: -60px;
+}
+#img_ejem7{
+    width: 40;
+    height: 100;
+    margin-left: 20%;
+    position: relative;
+    top: -60px;
+}
